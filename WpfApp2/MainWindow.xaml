@@ -11,9 +11,9 @@
         <DataGrid Name="mydataGrid1">
 
         </DataGrid>
-        <DataGrid>
+        <DataGrid  Name="mydataGrid2">
 
         </DataGrid>
-        <Button ></Button>
+        <Button Height="50" Click="Button_Click" ></Button>
     </StackPanel>
 </Window>
